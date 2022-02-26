@@ -1,9 +1,6 @@
 # **Convex Hull** Visualizer
 
 ## Deskripsi
-**Convex Hull** merupakan 
-
-
 Program **Convex Hull Visualizer** ini bertujuan untuk menghasilkan visualisasi antar 2 fitur dari setiap data yang dikelompokkan berdasarkan label targetnya. Penentuan **Convex Hull** pada program ini memanfaatkan algoritma *Divide and Conquer*
 
 ## Requirement Program
